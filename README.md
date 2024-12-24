@@ -8,5 +8,7 @@ Notes on Operating Systems.
 
 ## X Window System
 
-[wiki en](https://en.wikipedia.org/wiki/X_Window_System)
-[wiki ru](https://ru.wikipedia.org/wiki/X_Window_System)
+- [wiki en](https://en.wikipedia.org/wiki/X_Window_System)
+- [wiki ru](https://ru.wikipedia.org/wiki/X_Window_System)
+- [site](https://www.x.org/wiki/)
+- [documentation](https://www.x.org/wiki/UserDocumentation/)
